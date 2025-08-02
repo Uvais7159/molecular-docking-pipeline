@@ -36,3 +36,14 @@ Place the receptor 3FRA.pdbqt into the receptor/ folder
 
 Run the script:
 python docking_pipeline.py
+🧬 Applications
+Structure-based drug design
+
+Screening of bioactive heterocycles (e.g., triazine-coumarin-benzothiazole hybrids)
+
+Evaluation of antibacterial potency based on docking scores
+
+👨‍🔬 Author
+Mohd Uvais Raza Khan
+Integrated M.Sc. Chemistry | Researcher in Medicinal and Computational Chemistry
+📬 Feel free to connect via GitHub or LinkedIn
